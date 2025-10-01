@@ -38,6 +38,10 @@ ecommerce-backend/
 
 ````
 
+<img width="1905" height="1021" alt="Screenshot 2025-10-01 150939" src="https://github.com/user-attachments/assets/30ddf43f-3dc1-41e0-aef4-747298be4058" />
+<img width="1861" height="884" alt="Screenshot 2025-10-01 144010" src="https://github.com/user-attachments/assets/14eb6e42-952b-469e-81f0-dfe979cf3c26" />
+<img width="1902" height="1026" alt="Screenshot 2025-10-01 143933" src="https://github.com/user-attachments/assets/18d96b20-5da3-4d20-b10d-111caca27707" />
+
 ## Features
 
 - **User Authentication**: Secure login and registration using JWT tokens.
@@ -93,9 +97,6 @@ ecommerce-backend/
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your proposed changes.
 
 
-<img width="1905" height="1021" alt="Screenshot 2025-10-01 150939" src="https://github.com/user-attachments/assets/30ddf43f-3dc1-41e0-aef4-747298be4058" />
-<img width="1861" height="884" alt="Screenshot 2025-10-01 144010" src="https://github.com/user-attachments/assets/14eb6e42-952b-469e-81f0-dfe979cf3c26" />
-<img width="1902" height="1026" alt="Screenshot 2025-10-01 143933" src="https://github.com/user-attachments/assets/18d96b20-5da3-4d20-b10d-111caca27707" />
 
 
 
